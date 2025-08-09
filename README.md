@@ -1,6 +1,6 @@
 # 🛍️ Smart Shelf Sim - Edge + Microservices Project
 
-This is a sample project that simulates a smart shelf monitoring system using edge computing and microservices. It uses Python and Flask to demonstrate communication between simulated edge devices and a cloud API.
+This is a sample project that simulates a smart shelf monitoring system using edge computing and microservices. It uses Python and Flask to demonstrate communication between simulated edge devices and a cloud API. (Uses docker)
 
 ## 🧱 Components
 
